@@ -35,10 +35,11 @@ My professional journey covers the full lifecycle of data and AI implementation:
 
 I am interested in collaborating on projects that utilize AI and Data Science to transform operational efficiency and clinical outcomes.
 
-LinkedIn: [Sehrish Ilyas](https://www.linkedin.com/in/sehrish-ilyas/) 
-Email: sehrishilyas21@outlook.com 
-Twitter : [Sehrish Ilyas](https://x.com/SeriIlyas) 
-Medium : [Sehrish Ilyas](https://medium.com/@SeriIlyas) 
+LinkedIn: [Sehrish Ilyas](https://www.linkedin.com/in/sehrish-ilyas/)  
+Email: sehrishilyas21@outlook.com  
+Twitter : [Sehrish Ilyas](https://x.com/SeriIlyas)  
+Medium : [Sehrish Ilyas](https://medium.com/@SeriIlyas)  
+
 
 This is my old github account : [Sehrish Ilyas](https://github.com/SehrishIlyas) 
 
